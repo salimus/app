@@ -32,4 +32,4 @@ Feature: Movies Appium Home Work
     Then I open 5th movie
     And I collect the rating for the 5th movie
     Then I print out the result of highest rating on screen
-# I know the Scenario #3 might has shortest way of implementation but due to time limitation I created in long way.
+# the Scenario #3 might has shortest way of implementation
